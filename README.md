@@ -16,7 +16,7 @@ Post-it Viagens é um sistema para registrar e compartilhar experiências de via
 Viajantes, estudantes de turismo e pessoas que gostam de registrar experiências de viagem.
 
 **Repositório:**
-[Link do Repositório GitHub/GitLab](#)
+[Link do Repositório GitHub/GitLab](#https://github.com/CarolKamis/proj-postit/edit/main/README.md)
 
 ---
 
@@ -160,9 +160,7 @@ npm start
 * Visualizar feedback em tempo real das ações realizadas.
 
 ```
----
-
-✅ 9. Cadastro, Login e Autenticação
+## 9. Cadastro, Login e Autenticação
 
 O sistema permite que usuários criem contas e façam login para acessar funcionalidades completas do app, como criar, editar e excluir publicações.
 
@@ -188,7 +186,7 @@ POST /login – Realiza login com nome e senha
 
 ---
 
-🎨 10. Estilo Visual e Experiência do Usuário
+## 🎨 10. Estilo Visual e Experiência do Usuário
 
 O projeto usa um design jovem, limpo e “fofinho”, ideal para um app de memórias de viagem. Algumas características:
 
@@ -204,7 +202,7 @@ Layout totalmente responsivo, adaptável para celular.
 
 ---
 
-💻 11. Estrutura de Arquivos
+## 💻 11. Estrutura de Arquivos
 📂 frontend/
 App.js
 index.js
@@ -221,7 +219,7 @@ usuarios.json      ← Armazena os usuários
 
 ---
 
-🛠️ 12. Tecnologias Utilizadas
+## 🛠️ 12. Tecnologias Utilizadas
 Tecnologia	Uso
 React JS	Interface do usuário (SPA)
 Node.js	Backend e servidor local
@@ -232,7 +230,7 @@ CSS	Estilização customizada
 
 ---
 
-🧪 13. Testando com Postman ou curl
+## 🧪 13. Testando com Postman ou curl
 Registrar novo usuário:
 curl -X POST http://localhost:3001/register \
   -H "Content-Type: application/json" \
@@ -245,7 +243,7 @@ curl -X POST http://localhost:3001/login \
 
   ---
 
-🚀 14. Futuras Melhorias (sugestões)
+## 🚀 14. Futuras Melhorias (sugestões)
 
 Criptografia de senha (com bcrypt)
 
