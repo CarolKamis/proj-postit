@@ -22,6 +22,7 @@ Viajantes e pessoas que gostam de registrar experiências de forma rápida, intu
 ## 2️⃣ **Requisitos e Arquitetura**
 
 ### ✔️ **Requisitos Funcionais**
+- Cadastrar e logar conta
 - Criar, editar, excluir e listar publicações  
 - Buscar posts pelo título  
 - Consultar informações externas (Wikipedia)  
