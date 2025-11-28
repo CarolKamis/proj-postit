@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "nome": "teste",
+      "senha": "1234"
+    },
+    {
+      "nome": "Kaka",
+      "senha": "1111"
+    },
+    {
+      "nome": "GG",
+      "senha": "G1G2"
+    },
+    {
+      "nome": "Vava",
+      "senha": "0000"
+    },
+    {
+      "nome": "mel",
+      "senha": "2222"
+    },
+    {
+      "nome": "kaka",
+      "senha": "5555"
+    }
+  ]
+}
