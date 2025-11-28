@@ -1,4 +1,4 @@
-# 📒 **Post-it Viagens**
+# 📒 **Post-it **
 
 ## 1️⃣ **Identificação e Contexto do Projeto**
 
@@ -9,7 +9,7 @@
 - Valentina Alves dos Santos  
 
 **🎯 Objetivo:**  
-O Post-it Viagens é um sistema para registrar e compartilhar memórias de viagem, com fotos, descrições e informações automáticas de lugares via Wikipedia.
+O Post-it é um sistema para registrar e compartilhar memórias de viagem, com fotos, descrições e informações automáticas de lugares via Wikipedia.
 
 **🎯 Público-alvo:**  
 Viajantes e pessoas que gostam de registrar experiências de forma rápida, intuitiva e visual.
